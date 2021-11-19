@@ -1,0 +1,26 @@
+{
+  "name": "practico1githubmern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enromero1994/Practico-1-GitHub---Curso-MERN-STACK-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enromero1994/Practico-1-GitHub---Curso-MERN-STACK-/issues"
+  },
+  "homepage": "https://github.com/enromero1994/Practico-1-GitHub---Curso-MERN-STACK-#readme"
+}
